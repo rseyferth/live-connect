@@ -1,4 +1,4 @@
-# siftware/live-connect
+# wipkip/live-connect (fork of siftware/live-connect)
 
 A PHP package that consumes Microsoft's Live Connect REST API allowing OneDrive (SkyDrive) interaction and authentication.
 
