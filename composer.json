@@ -1,8 +1,8 @@
 {
-    "name": "siftware/live-connect",
+    "name": "wipkip/live-connect",
     "description": "Consumes Microsoft's Live Connect REST API. Allows OneDrive (SkyDrive) interaction and authentication ",
     "keywords": ["live", "connect", "SkyDrive", "OneDrive"],
-    "homepage": "http://github.com/siftware/live-connect",
+    "homepage": "http://github.com/rseyferth/live-connect",
     "license": "MIT",
     "type": "library",
     "authors": [
